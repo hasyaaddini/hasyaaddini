@@ -10,7 +10,7 @@ HELLO this is quite confusing but I think I am slowly getting the hang of it..
 - cats
 -  dogs
 -  outdoor activities
--  talking
+-  talking..?
 -  mitski
 -  one piece
 -  learning and exploring new things
